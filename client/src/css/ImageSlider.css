@@ -1,0 +1,77 @@
+.slider-container {
+    position: relative;
+    width: 100%;
+    background-image: url('../Images/trend\ \(2\).png');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 80vh;
+    background-size: 100% 80vh;
+    padding-top: 50px;
+}
+
+.slider {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.slide {
+    flex: 0 0 auto;
+    margin: 0 5px;
+}
+
+.slide img {
+    width: 100%;
+    /* border-radius: 5px;
+    border: 10px solid white; */
+}
+
+.nav-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    /* background: transparent; */
+    background-color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    padding: 2px 18px;
+    border-radius: 70px;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+/* Border Animation */
+.border-trend-animation {
+    --color: #9dc9f4;
+    /* the border color */
+    --border: 7px;
+    /* the border thickness*/
+    --offset: 20px;
+    /* control the offset*/
+    --gap: 5px;
+    /* the gap on hover */
+
+    --_c: var(--color) var(--border), #0000 0 calc(100% - var(--border)), var(--color) 0;
+    --_o: calc(3*var(--offset));
+    padding:
+        calc(var(--gap) + var(--border)) calc(var(--gap) + var(--border) + var(--offset)) calc(var(--gap) + var(--border) + var(--offset)) calc(var(--gap) + var(--border));
+    background:
+        linear-gradient(var(--_c)) var(--_o) var(--_o),
+        linear-gradient(90deg, var(--_c)) var(--_o) var(--_o);
+    background-size: calc(100% - var(--_o)) calc(100% - var(--_o));
+    background-repeat: no-repeat;
+    filter: grayscale(.8);
+    transition: .5s;
+    cursor: pointer;
+}
+
+.border-trend-animation:hover {
+    background-position: 0px 0px;
+    background-size: calc(100% - var(--offset)) calc(100% - var(--offset));
+    filter: grayscale(0);
+}

@@ -1,0 +1,17 @@
+Login
+
+<div className='container'>
+        <form onSubmit={handleSubmit}>
+          <div className="mb-3 row">
+            <label htmlFor="email" className="form-label col-6">Email address</label>
+            <input type="email" className="form-control col-6" name='email' value={credentials.email} onChange={onchange} />
+            {/* <div id="emailHelp" className="form-text">Well never share your email with anyone else.</div> */}
+          </div>
+          <div className="mb-3">
+            <label htmlFor="password" className="form-label">Password</label>
+            <input type="password" className="form-control" name='password' value={credentials.password} onChange={onchange} />
+          </div>
+          <button type="submit" className=" m-3 btn btn-success">Submit</button>
+          <Link to="/createuser" className='m-3 btn btn-danger'>I'm New User</Link>
+        </form>
+      </div>

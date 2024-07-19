@@ -1,0 +1,9 @@
+#popup {
+    display: block;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 50%;
+    height: 200px;
+    background-color: aqua;
+}

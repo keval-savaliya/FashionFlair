@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6876"
+  },
+  "categoryname": "Kurtis",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/e/tr:w-480,/4e3a9a1NF_HANDM00000816_1.jpg?rnd=20200526195200",
+  "info": [
+    "material",
+    "shape",
+    "sleeve",
+    "occasion",
+    "pattern",
+    "neck",
+    "closure_type",
+    "fit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6877"
+  },
+  "categoryname": "Saree",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/8/tr:w-480,/e81fd76MKOSKI00000343_1.jpg?rnd=20200526195200",
+  "info": [
+    "material",
+    "sleeve",
+    "occasion",
+    "neck",
+    "blouse_fabric",
+    "border",
+    "saree_fabric",
+    "Work"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6878"
+  },
+  "categoryname": "Kids",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/c/tr:w-480,/5cf5b19PCF25_1.jpg?rnd=20200526195200",
+  "info": [
+    "material",
+    "type",
+    "occasion",
+    "season",
+    "neck",
+    "closure_type",
+    "sleeve"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6879"
+  },
+  "categoryname": "Dresses",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/6/tr:w-480,/16129d9ORN072_1.jpg?rnd=20200526195200",
+  "info": [
+    "material",
+    "neck",
+    "length",
+    "sleeve",
+    "type",
+    "fit",
+    "closure_type",
+    "occasion"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba687a"
+  },
+  "categoryname": "Western Wear",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/0/tr:w-480,/50ab1fbNYK_RSVPB00007429_1.jpg?rnd=20200526195200"
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba687b"
+  },
+  "categoryname": "Footwear",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/c/tr:w-480,/ecedf74JINC5X00025183_0.jpg?rnd=20200526195200",
+  "info": [
+    "Sole Material",
+    "Occasion",
+    "Toe Shape",
+    "Pattern",
+    "Heel-Height",
+    "Heel-type",
+    "material"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba687c"
+  },
+  "categoryname": "Jeans",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/1/tr:w-480,/41babeaBT0774_1.jpg?rnd=20200526195200",
+  "info": [
+    "Material",
+    "Pattern",
+    "Leg Style",
+    "Occasion",
+    "Rise Style",
+    "fit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba687d"
+  },
+  "categoryname": "Jacket",
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/a/tr:w-480,/2a138edSTYLE-4394MEHROON_1.jpg?rnd=20200526195200",
+  "info": [
+    "Material",
+    "Pattern",
+    "Occasion",
+    "Closure Type",
+    "Sleeve Type",
+    "Type",
+    "Neck Line",
+    "Pocket"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba687e"
+  },
+  "categoryname": "Jewellery",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMhYsYHljZk83JCAqPS_NE3HP6P5HELkWipTTr_8dSu1EKVwndIQk2PUp7jVQgam3FQuU&usqp=CAU",
+  "info": [
+    "Occasion",
+    "Style Of Jewellery",
+    "Warranty",
+    "Stone Type",
+    "Plating",
+    "Type",
+    "Segment",
+    "Material"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba687f"
+  },
+  "categoryname": "Lahenga",
+  "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/333714010/FK/JU/GB/164062178/whatsapp-image-2023-08-09-at-9-09-20-pm-500x500.jpeg",
+  "info": [
+    "Pattern",
+    "Material",
+    "Closure Type",
+    "Type Of Work",
+    "Type",
+    "Fit",
+    "Neck Line",
+    "Sleeve Type"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6880"
+  },
+  "categoryname": "Lowers",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQHmPnszJhyyZxYmHrFyLMWkv8RCXr2B_Zg&usqp=CAU",
+  "info": [
+    "Occasion",
+    "Material",
+    "Closure Type",
+    "Fit",
+    "Length",
+    "Rise Style",
+    "Leg Style"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6881"
+  },
+  "categoryname": "Bags",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8I9Mty-d5HrAjHXJqfPe3Tb5TzGwtHn6ZKZ390kwT7-ISVirO4nhDEyvZq0Kw4SA2UkE&usqp=CAU",
+  "info": [
+    "Pattern",
+    "Water Resistant",
+    "Pockets",
+    "Material",
+    "Warranty",
+    "Handles",
+    "Dimensions",
+    "Compartment"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603be7814ee3f9f68ba6882"
+  },
+  "categoryname": "Make-Up",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50vUd5SuHBvmLA-o6CR3FXWEbNj5n81x5Bw&usqp=CAU"
+},
+{
+  "_id": {
+    "$oid": "6606d9425e569318736b9e81"
+  },
+  "categoryname": "Gown",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjW1pSxpvbSFL9n3IG2ubKPeJlqsQJPDK3A&usqp=CAU",
+  "info": [
+    "Sleeve",
+    "Material",
+    "Neck",
+    "Pattern",
+    "Colour"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66435552265af0364e89c3ef"
+  },
+  "categoryname": "Frock",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjW1pSxpvbSFL9n3IG2ubKPeJlqsQJPDK3A&usqp=CAU",
+  "info": [
+    "Colour",
+    "Pattern",
+    "Sleeve",
+    "Neck",
+    "Length"
+  ],
+  "__v": 0
+}]

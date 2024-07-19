@@ -1,0 +1,151 @@
+.background {
+    background-image: url('../Images/herobackground.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.heronavbar {
+    font-weight: 600;
+    color: #1D4265;
+}
+
+.signupbutton {
+    background-image: linear-gradient(#193046, #15385A, #1D4265, #2E5F8E);
+    color: #ffffff;
+}
+
+.signupbutton:hover {
+    transform: scale(1.1);
+}
+
+.shoppinggirl {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 700px;
+    height: 600px;
+}
+
+.button {
+    background-image: linear-gradient(#193046, #15385A, #1D4265, #2E5F8E);
+    /* width: 150px; */
+}
+
+.button span {
+    cursor: pointer;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.typed-cursor {
+    font-size: 30px;
+    color: var(--dark);
+}
+
+/* .type {
+    font-family: monospace;
+    color: #0000;
+    background:
+        linear-gradient(-90deg, #1D4265 5px, #0000 0) 10px 0,
+        linear-gradient(#1D4265 0 0) 0 0;
+    background-size: calc(var(--n)*1ch) 200%;
+    -webkit-background-clip: padding-box, text;
+    background-clip: padding-box, text;
+    background-repeat: no-repeat;
+    animation:
+        b .6s infinite steps(1),
+        t calc(var(--n)*.3s) steps(var(--n)) forwards;
+}
+
+@keyframes t {
+    from {
+        background-size: 0 200%
+    }
+}
+
+@keyframes b {
+    50% {
+        background-position: 0 -100%, 0 0
+    }
+} */
+
+.type {
+    border-right: 1px solid black;
+    color: #1d4265;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: flex;
+    justify-content: start;
+    white-space: nowrap;
+    font-size: 20px;
+    animation: typing 5s 2s steps(50) infinite alternate-reverse;
+}
+
+@keyframes typing {
+    from {
+        width: 0%;
+    }
+
+    to {
+        width: 20%;
+    }
+}
+
+@keyframes backspace {
+    from {
+        width: 100%;
+    }
+
+    to {
+        width: 0%;
+    }
+}
+
+/* Styles for the typing animation */
+/* @keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes backspace {
+    from {
+        width: 100%;
+    }
+
+    to {
+        width: 0;
+    }
+}
+
+.typing-line {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 0;
+    animation: typing 10s steps(40, end),
+        backspace 10s steps(40, end) 2s forwards infinite;
+} */

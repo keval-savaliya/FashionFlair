@@ -1,0 +1,158 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.searchbar:hover {
+  border-color: #4d2e22;
+  box-shadow: 5px 5px #4d2e22;
+}
+
+.input {
+  width: 50%;
+}
+
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu div {
+  display: inline-block;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(90deg, #1d4265 50%, #92bbe2 100%);
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(90deg, #92bbe2 50%, #1d4265 100%);
+}
+
+/* .carouselcustom{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: calc(100%-200px);
+  min-height: 100vh;
+} */
+
+.box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gradient {
+  background-image: linear-gradient(45deg, d59773, e3a47f, f1b18b, ffbe98, ffcba5, ffd9b2, ffe6bf);
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 42%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.galleryimg {
+  height: 250px;
+  width: 350px;
+  border-radius: 50px;
+}
+
+.hovergallery:hover {
+  /* transform: scale(1.2); */
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  background-color: #9dc9f4;
+  box-shadow: rgba(0, 0, 0, 0.24) 13px 13px 13px 8px;
+}
+
+.hovergallery {
+  height: 400px;
+  border-radius: 100px;
+  transition: 0.6s ease-out 100ms;
+}
+
+
+.fontstyle {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.allcard:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, .5);
+}
+
+.videostyle {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: transform .2s;
+}
+
+.videostyle:hover {
+  transform: scale(1.05);
+}
+
+.ctitem {
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-shadow: rgba(0, 0, 0, 0.24) 13px 13px 13px 8px;
+  height: 200px;
+  width: 630px;
+  padding: 30px;
+}
+
+.container1 {
+  margin: 30px;
+}
+
+.box {}
+
+.overlay {
+  z-index: 9;
+}

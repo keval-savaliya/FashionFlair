@@ -1,0 +1,59 @@
+SignUp
+<div className='d-flex justify-content-center' style={{ width: "100%", backgroundColor:"red", border:"10px solid black"}}>
+                <div className='justify-content-center border rounded-4 bg-info mt-5 vertical-center' style={{ width: "60%", backgroundColor: "red" }}>
+                    <div className="ms-0" style={{ height: "70vh", backgroundColor: "#eee", margin: "0 auto", float: "left", width: "50%" }} >
+
+                        <p className="text-center h1 fw-bold mb-3 mt-2">Sign up</p>
+
+                        <form className="mx-1 mx-md-4" onSubmit={handleSubmit}>
+
+                            <div className="d-flex flex-row align-items-center mb-2">
+                                <i className="fas fa-user fa-lg me-1 fa-fw"></i>
+                                <div className="form-outline flex-fill mb-0">
+                                    <input type="text" className="form-control" name='name' value={credentials.name} onChange={onchange} />
+                                    <label className="form-label" for="form3Example1c">Your Name</label>
+                                </div>
+                            </div>
+
+                            <div className="d-flex flex-row align-items-center mb-2">
+                                <i className="fas fa-envelope fa-lg me-1 fa-fw"></i>
+                                <div className="form-outline flex-fill mb-0">
+                                    <input type="email" className="form-control" name='email' value={credentials.email} onChange={onchange} />
+                                    <label className="form-label" for="form3Example3c">Your Email</label>
+                                </div>
+                            </div>
+
+                            <div className="d-flex flex-row align-items-center mb-2">
+                                <i className="fas fa-lock fa-lg me-1 fa-fw"></i>
+                                <div className="form-outline flex-fill mb-0">
+                                    <input type="password" className="form-control" name='password' value={credentials.password} onChange={onchange} />
+                                    <label className="form-label" for="form3Example4c">Password</label>
+                                </div>
+                            </div>
+
+                            <div className="d-flex flex-row align-items-center mb-2">
+                                <i className="fas fa-key fa-lg me-1 fa-fw"></i>
+                                <div className="form-outline flex-fill mb-0">
+                                    <input type="text" className="form-control" name='location' value={credentials.location} onChange={onchange} />
+                                    <label className="form-label" for="form3Example4cd">Location</label>
+                                </div>
+                            </div>
+                            <div className='d-flex justify-content-center align-items-center mb-2'>
+                                <Link to="/login" className="form-check-label">Already a user</Link>
+                            </div>
+
+                            <div className="d-flex justify-content-center mx-4 mb-2 mb-lg-4">
+                                <button type="button" className="btn btn-primary btn-lg" onClick={handleSubmit}>Register</button>
+                            </div>
+
+                        </form>
+
+                    </div>
+                    <div className="d-flex align-items-center box" style={{ height: "70vh", width: "50%", opacity: "0.4" }}>
+
+                        <img src={loginimg}
+                            className="" alt="..." />
+
+                    </div>
+                </div>
+            </div>

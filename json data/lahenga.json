@@ -1,0 +1,175 @@
+[
+    {
+        "category": "Lahenga",
+        "name": "Embroidered Silk Lahenga",
+        "price": 199.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GDaMrazX8GxVbd0JG-s6x4IIj-ZNbJ7csg&usqp=CAU",
+        "sizes_available": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Bridal Lehenga Choli",
+        "price": 299.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWL2h9Bhz52cLeNxUp0oWW-YMqKoMS1nV0g&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Designer Net Lahenga",
+        "price": 249.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H5uvVvwac-g45WhoIPTF6yDdHNCsCPs7ZA&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Traditional Lehenga Saree",
+        "price": 189.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2FJSrE3QwjJbS6I1esLdTqVmkbDOVloTlA&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Fancy Velvet Lehenga",
+        "price": 279.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41TTS5soMhivZ7OQ538nKv0G93k64sFz4AA&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqWnA56kRVyRr8B7pPnjfe_lfhoVIZ8auHg&usqp=CAU",
+        "price": 169.99,
+        "image": "",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Party Wear Lehenga",
+        "price": 219.99,
+        "image": "data:image/jpeg;base64,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",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Silk Jacquard Lehenga",
+        "price": 189.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWBItmnv-n7p5axHMX_Boo57FcLkaZcjbFg&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Heavy Embellished Lehenga",
+        "price": 349.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLxEWXK4iNuJH2_IJxkd5Xe8ksXZFtnmd1g&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Bollywood Style Lehenga",
+        "price": 259.99,
+        "image": "data:image/jpeg;base64,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",
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Digital Print Lehenga",
+        "price": 179.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZlHDQDfvw6sApEpfxvI5MjyuXhlmMQd3bg&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Embroidered Lehenga Skirt",
+        "price": 199.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUMAsg147WX5CHc9HHvDi4vLGTiXBYk8_XQ&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Zari Work Lehenga",
+        "price": 239.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyyLFjMPWAqddco928qG--PlM6R3hbg78XXQ&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Printed Lehenga with Jacket",
+        "price": 299.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDC6_A-SkDfveRwMRn7sag9WmkwnhVs-AGA&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ]
+    },
+    {
+        "category": "Lahenga",
+        "name": "Chikankari Lehenga",
+        "price": 189.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKlv0yVc28ngkvii1QKcjUX_2xKRjYN1aUQ&usqp=CAU",
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ]
+    }
+]

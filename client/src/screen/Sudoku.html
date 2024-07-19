@@ -1,0 +1,66 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+            function generateSudokuBoard() {
+                    // Initialize an empty 9x9 grid
+                    let board = Array.from({ length: 9 }, () => Array(9).fill(0));
+
+                    // Fill the main diagonal 3x3 subgrids with random numbers
+                    for (let i = 0; i < 9; i += 3) {
+                        fillSubgrid(board, i, i);
+                    }
+
+                    // Solve the Sudoku board to generate a complete solution
+                    solveSudoku(board);
+
+                    // Remove some numbers to create the puzzle
+                    // removeNumbers(board);
+
+                    return board;
+                }
+
+                function fillSubgrid(board, row, col) {
+                    let nums = shuffle([1, 2, 3, 4, 5, 6, 7, 8, 9]);
+                    let index = 0;
+
+                    for (let i = row; i < row + 3; i++) {
+                        for (let j = col; j < col + 3; j++) {
+                            board[i][j] = nums[index];
+                            index++;
+                        }
+                    }
+                }
+
+                function shuffle(array) {
+                    for (let i = array.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [array[i], array[j]] = [array[j], array[i]];
+                    }
+                    return array;
+                }
+
+                function solveSudoku(board) {
+                    // Your Sudoku solving algorithm goes here
+                    // This code assumes you have a solver function to solve the Sudoku puzzle
+                }
+
+                // function removeNumbers(board) {
+                //     // Remove numbers to create a puzzle
+                //     const removalCount = Math.floor(Math.random() * 21) + 40; // Adjust the range based on difficulty
+
+                //     for (let i = 0; i < removalCount; i++) {
+                //         const row = Math.floor(Math.random() * 9);
+                //         const col = Math.floor(Math.random() * 9);
+                //         board[row][col] = 0;
+                //     }
+                // }
+
+                // Example usage
+                const sudokuBoard = generateSudokuBoard();
+                console.log(sudokuBoard)
+        </script>
+    </body>
+</html>

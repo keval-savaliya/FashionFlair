@@ -1,0 +1,502 @@
+[
+    {
+        "id": 39,
+        "title": "Quipitos",
+        "price": 1000,
+        "description": "Colombian candy",
+        "images": [
+            "https://i.imgur.com/mcW42Gi.jpeg",
+            "https://i.imgur.com/mhn7qsF.jpeg",
+            "https://i.imgur.com/F8vhnFJ.jpeg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-28T03:53:52.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 43,
+        "title": "Unbranded Fresh Bike cooooollll",
+        "price": 245,
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "images": [
+            "https://i.imgur.com/Au8J9sX.jpeg",
+            "https://i.imgur.com/gdr8BW2.jpeg",
+            "https://i.imgur.com/KDCZxnJ.jpeg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-28T03:30:52.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 44,
+        "title": "Handcrafted Bronze Keyboard",
+        "price": 756,
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "images": [
+            "https://i.imgur.com/sC0ztOB.jpeg",
+            "https://i.imgur.com/Jf9DL9R.jpeg",
+            "https://i.imgur.com/R1IN95T.jpeg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-27T09:26:51.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 45,
+        "title": "Gorgeous Bronze Car",
+        "price": 389,
+        "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+        "images": [
+            "https://i.imgur.com/BG8J0Fj.jpg",
+            "https://i.imgur.com/ujHBpCX.jpg",
+            "https://i.imgur.com/WHeVL9H.jpg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-27T09:26:51.000Z",
+        "category": {
+            "id": 5,
+            "name": "Miscellaneous",
+            "image": "https://i.imgur.com/BG8J0Fj.jpg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 49,
+        "title": "Bespoke Cotton Sausages",
+        "price": 417,
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "images": [
+            "https://i.imgur.com/Lqaqz59.jpg",
+            "https://i.imgur.com/uSqWK0m.jpg",
+            "https://i.imgur.com/atWACf1.jpg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-27T09:26:51.000Z",
+        "category": {
+            "id": 5,
+            "name": "Miscellaneous",
+            "image": "https://i.imgur.com/BG8J0Fj.jpg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 50,
+        "title": "Refined Wooden Pants",
+        "price": 245,
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "images": [
+            "https://i.imgur.com/0qQBkxX.jpg",
+            "https://i.imgur.com/I5g1DoE.jpg",
+            "https://i.imgur.com/myfFQBW.jpg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-27T09:26:51.000Z",
+        "category": {
+            "id": 5,
+            "name": "Miscellaneous",
+            "image": "https://i.imgur.com/BG8J0Fj.jpg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 51,
+        "title": "Fantastic Granite Ball",
+        "price": 628,
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "images": [
+            "https://i.imgur.com/TF0pXdL.jpg",
+            "https://i.imgur.com/BLDByXP.jpg",
+            "https://i.imgur.com/b7trwCv.jpg"
+        ],
+        "creationAt": "2023-11-27T09:26:51.000Z",
+        "updatedAt": "2023-11-27T09:26:51.000Z",
+        "category": {
+            "id": 5,
+            "name": "Miscellaneous",
+            "image": "https://i.imgur.com/BG8J0Fj.jpg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 54,
+        "title": "Trilhos de trem",
+        "price": 273,
+        "description": "ezcwkhfwaefythpurjxhfjjlonqhtgtcsulcxmdhypreududmxdwjplafwniutoynemxsagsoou",
+        "images": [
+            "https://picsum.photos/1024/768"
+        ],
+        "creationAt": "2023-11-27T10:42:17.000Z",
+        "updatedAt": "2023-11-28T03:21:35.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 70,
+        "title": "Calvin Klein",
+        "price": 684,
+        "description": "fchuhitwdaodnaly",
+        "images": [
+            "https://picsum.photos/640/350"
+        ],
+        "creationAt": "2023-11-27T12:53:03.000Z",
+        "updatedAt": "2023-11-27T12:58:45.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 73,
+        "title": "Timex",
+        "price": 784,
+        "description": "ifxodngeuupgrlesfqhiiykjpyilmpllesjeehaynaumsqzudmfbhsgqeubhzuhgwdncgkhbx",
+        "images": [
+            "https://picsum.photos/1024/768"
+        ],
+        "creationAt": "2023-11-27T12:58:46.000Z",
+        "updatedAt": "2023-11-27T13:53:23.000Z",
+        "category": {
+            "id": 3,
+            "name": "Audi",
+            "image": "https://placeimg.com/648/480/any",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T10:57:41.000Z"
+        }
+    },
+    {
+        "id": 79,
+        "title": "Diesel",
+        "price": 408,
+        "description": "xnbwmnkpalfgbowinibkrcvksg",
+        "images": [
+            "https://picsum.photos/640/200"
+        ],
+        "creationAt": "2023-11-27T13:53:24.000Z",
+        "updatedAt": "2023-11-27T14:03:22.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 82,
+        "title": "Omega",
+        "price": 805,
+        "description": "lfjsbqtxbdtlihuhmfgcxtxomuuurbgiczdbpakhhvlhaocvttqlkvqfhajicmyicjftthhwnlgayzajdfna",
+        "images": [
+            "https://picsum.photos/320/200"
+        ],
+        "creationAt": "2023-11-27T14:03:22.000Z",
+        "updatedAt": "2023-11-27T14:11:16.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 88,
+        "title": "Timex",
+        "price": 231,
+        "description": "nfpyjfzcamjvengzkdjkdwsedqahujcdjgaladrtfzhwdfbslbcwgwnxpxnfenisba",
+        "images": [
+            "https://picsum.photos/1920/1200"
+        ],
+        "creationAt": "2023-11-27T14:11:16.000Z",
+        "updatedAt": "2023-11-27T14:16:43.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 89,
+        "title": "Guess",
+        "price": 189,
+        "description": "batdfgugflevkfkokekdpkattwhrfdfnkmlaiarrxudfkiunycwobpobrqumuaojox",
+        "images": [
+            "https://picsum.photos/1600/1200"
+        ],
+        "creationAt": "2023-11-27T14:16:42.000Z",
+        "updatedAt": "2023-11-27T14:19:19.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 99,
+        "title": "New Product added succesfully",
+        "price": 1078904,
+        "description": "A description...",
+        "images": [
+            "https://placeimg.com/640/480/any"
+        ],
+        "creationAt": "2023-11-27T17:23:04.000Z",
+        "updatedAt": "2023-11-27T17:23:04.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 100,
+        "title": "New Product added succesfully",
+        "price": 1078904,
+        "description": "A description...",
+        "images": [
+            "https://placeimg.com/640/480/any"
+        ],
+        "creationAt": "2023-11-27T17:49:54.000Z",
+        "updatedAt": "2023-11-27T17:49:54.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 107,
+        "title": "Shoes",
+        "price": 1999,
+        "description": "Nice shoes",
+        "images": [
+            "https://cdn.thewirecutter.com/wp-content/media/2021/10/running-shoes-2048px-3128-2x1-1.jpg?auto=webp&quality=75&crop=2:1&width=980&dpr=2"
+        ],
+        "creationAt": "2023-11-27T23:19:27.000Z",
+        "updatedAt": "2023-11-27T23:19:27.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 108,
+        "title": "flowers",
+        "price": 500,
+        "description": "ramo de flores de colores",
+        "images": [
+            "https://www.yaakunflores.com/uploads/arreglos/ramo-de-50-rosas-tonos-rosas-con-gypso-de-colores-en-envoltura-papel-coreano.jpg"
+        ],
+        "creationAt": "2023-11-28T00:16:20.000Z",
+        "updatedAt": "2023-11-28T00:16:20.000Z",
+        "category": {
+            "id": 3,
+            "name": "Audi",
+            "image": "https://placeimg.com/648/480/any",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T10:57:41.000Z"
+        }
+    },
+    {
+        "id": 109,
+        "title": "Tennis",
+        "price": 750,
+        "description": "tennis comodo",
+        "images": [
+            "https://m.media-amazon.com/images/I/31+yXWHp6AL._AC_SY780_.jpg"
+        ],
+        "creationAt": "2023-11-28T00:19:06.000Z",
+        "updatedAt": "2023-11-28T00:19:06.000Z",
+        "category": {
+            "id": 4,
+            "name": "Shoes",
+            "image": "https://i.imgur.com/qNOjJje.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 110,
+        "title": "Rosas",
+        "price": 1000,
+        "description": "ramo de rosas rojas",
+        "images": [
+            "https://decorali.com.mx/wp-content/uploads/2020/10/ramo36rosasC.jpg"
+        ],
+        "creationAt": "2023-11-28T00:21:31.000Z",
+        "updatedAt": "2023-11-28T00:21:31.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 111,
+        "title": "regalo",
+        "price": 100,
+        "description": "jhksdkjs",
+        "images": [
+            "https://i.ebayimg.com/images/g/ZckAAOSwwQdkYQW0/s-l1200.jpg"
+        ],
+        "creationAt": "2023-11-28T00:25:18.000Z",
+        "updatedAt": "2023-11-28T00:25:18.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 112,
+        "title": "celular",
+        "price": 7000,
+        "description": "de buena calidad",
+        "images": [
+            "https://st.depositphotos.com/1005574/4001/v/450/depositphotos_40012595-stock-illustration-tv-monitor.jpg"
+        ],
+        "creationAt": "2023-11-28T00:27:42.000Z",
+        "updatedAt": "2023-11-28T00:35:09.000Z",
+        "category": {
+            "id": 2,
+            "name": "Electronics",
+            "image": "https://i.imgur.com/ZANVnHE.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 114,
+        "title": "the buthcer",
+        "price": 1231,
+        "description": "black soprano gang",
+        "images": [
+            "https://avatars.githubusercontent.com/u/50388072?v=4"
+        ],
+        "creationAt": "2023-11-28T01:51:36.000Z",
+        "updatedAt": "2023-11-28T01:51:36.000Z",
+        "category": {
+            "id": 3,
+            "name": "Audi",
+            "image": "https://placeimg.com/648/480/any",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T10:57:41.000Z"
+        }
+    },
+    {
+        "id": 116,
+        "title": "New Product",
+        "price": 10,
+        "description": "a",
+        "images": [
+            "https://placeimg.com/640/480/any"
+        ],
+        "creationAt": "2023-11-28T02:16:08.000Z",
+        "updatedAt": "2023-11-28T02:16:08.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 117,
+        "title": "New Product",
+        "price": 10,
+        "description": "a",
+        "images": [
+            "https://placeimg.com/640/480/any"
+        ],
+        "creationAt": "2023-11-28T02:16:26.000Z",
+        "updatedAt": "2023-11-28T02:16:26.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 118,
+        "title": "New Product",
+        "price": 10,
+        "description": "a",
+        "images": [
+            "https://placeimg.com/640/480/any"
+        ],
+        "creationAt": "2023-11-28T02:16:37.000Z",
+        "updatedAt": "2023-11-28T02:16:37.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    },
+    {
+        "id": 119,
+        "title": "Salad",
+        "price": 926,
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "images": [
+            "https://picsum.photos/seed/E18noLeh/640/480"
+        ],
+        "creationAt": "2023-11-28T03:53:51.000Z",
+        "updatedAt": "2023-11-28T03:53:51.000Z",
+        "category": {
+            "id": 1,
+            "name": "Clothes",
+            "image": "https://i.imgur.com/QkIa5tT.jpeg",
+            "creationAt": "2023-11-27T09:26:51.000Z",
+            "updatedAt": "2023-11-27T09:26:51.000Z"
+        }
+    }
+]

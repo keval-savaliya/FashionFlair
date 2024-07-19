@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6582ffb1b00c2e325d896fee"
+  },
+  "name": "Grisha Desai",
+  "review": "I am Satisfied completely with products.Good quality.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658304708833000e853cd2f9"
+  },
+  "name": "Yashvi Mathukiya",
+  "review": "I'm Yashvi Mathukiya I am satisfied with the products saled by fashion flair.My go to place any time I wish to buy a piece of clothing good options.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658451f76c902ba248b94775"
+  },
+  "name": "Yagna Gangajaliya",
+  "review": "Very Good Products and Service, On time Delivery of Orders, and also Moderate in price.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65845312f283dee9f1650575"
+  },
+  "name": "Hetvi Deshani",
+  "review": "I'm  Hetvi Deshani, I am satisfied with the products saled by fashion flair. My go to place any time I wish to buy a piece of clothing good options.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb37487aa6b5dd443cb58c"
+  },
+  "name": "Hemang",
+  "review": "Hii grisha , you are very intelligent, your face is better than me.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f064697ec23d251f3699fe"
+  },
+  "name": "Yashvi Mathukiya",
+  "review": "I'm Yashvi Mathukiya I am satisfied with the products saled by fashion flair.My go to place any time I wish to buy a piece of clothing good options.",
+  "__v": 0
+}]

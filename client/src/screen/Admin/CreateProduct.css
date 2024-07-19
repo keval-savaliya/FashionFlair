@@ -1,0 +1,65 @@
+.addProductContainer {
+    background-image: url('../../Images/addProduct.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.addProductSubContainer {
+    height: 80vh;
+    background-color: transparent;
+    box-shadow: 0px 0px 15px #fff;
+    ;
+    width: 80%;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.addProductTitle {
+    text-align: center;
+}
+
+.inputtag {
+    width: 70%;
+    margin-left: 10px;
+    background-color: transparent;
+    border-bottom: 2px solid #fff;
+}
+
+input {
+    outline: none;
+    border: none;
+    font-size: 1.2em;
+    font-family: 'Poppins', sans-serif;
+    color: #173451;
+}
+
+.addProductlable {
+    font-size: 1.2em;
+    color: #173451;
+    font-weight: bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}

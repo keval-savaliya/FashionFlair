@@ -1,0 +1,17 @@
+.box12 {
+    background-image: url('../Images/exploremore2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.box21 {
+    background-image: url('../Images/exploremore1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.box31 {
+    background-image: url('../Images/exploremore3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

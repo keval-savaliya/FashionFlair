@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "65f065477ec23d251f369a00"
+  },
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$Ad7FqNvEkyfHd7CvALqN4.vF4GNmWrIQPjR1RYjQ6iEf0KEIhq.GO",
+  "location": "admin",
+  "cartitems": [],
+  "isAdmin": true,
+  "date": {
+    "$date": "2024-03-12T14:23:03.493Z"
+  },
+  "createdAt": {
+    "$date": "2024-03-12T14:23:03.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-22T16:52:40.990Z"
+  },
+  "__v": 11,
+  "address": "Aksharam heights near baps swaminarayan mandir,junagadh road ,jetpur",
+  "city": "Jetpur",
+  "contactno": "8888888888",
+  "isOrdered": true,
+  "pincode": "360370",
+  "state": "Gujarat"
+},
+{
+  "_id": {
+    "$oid": "66063746c0b4b21658bae7f0"
+  },
+  "name": "Taehyung",
+  "email": "v@gmail.com",
+  "password": "$2a$10$OmxtwwztMWGzaxeTSOkvFutCzCTxYwbhj.d8B566BFhFTkSacXT2.",
+  "location": "korea",
+  "cartitems": [],
+  "isAdmin": false,
+  "contactno": "8888888888",
+  "address": "Aksharam heights, near baps swaminarayan mandir, jetpur",
+  "pincode": "360370",
+  "city": "Jetpur",
+  "state": "Gujarat",
+  "isOrdered": true,
+  "date": {
+    "$date": "2024-03-29T03:36:38.146Z"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T03:36:38.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-22T07:13:49.155Z"
+  },
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "6606454363dd798b72dab13b"
+  },
+  "name": "Jungkook",
+  "email": "jungkook@gmail.com",
+  "password": "$2a$10$rEXNTZe/MHlSgSI28cCB5.c/SisNurQ/EM/ieIqCpkI1sCUaoHTn.",
+  "location": "korea",
+  "cartitems": [],
+  "isAdmin": false,
+  "contactno": "8888888888",
+  "address": "Aksharam heights near baps swaminarayan mandir,junagadh road ,jetpur",
+  "pincode": "360370",
+  "city": "Jetpur",
+  "state": "Gujarat",
+  "isOrdered": true,
+  "date": {
+    "$date": "2024-03-29T04:36:19.685Z"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T04:36:19.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T02:33:39.858Z"
+  },
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "660703441b0e57a10b432fc0"
+  },
+  "name": "Naruto",
+  "email": "naruto@gmail.com",
+  "password": "$2a$10$ZZsHrwKYP1yy139HRq29Cu2v.dR9FxSlf4VJbfwOJq/Id/syyZ4iW",
+  "location": "korea",
+  "cartitems": [],
+  "isAdmin": false,
+  "contactno": "8888888888",
+  "address": "Aksharam heights, near baps swaminarayan mandir, jetpur",
+  "pincode": "360370",
+  "city": "Jetpur",
+  "state": "Gujarat",
+  "isOrdered": true,
+  "date": {
+    "$date": "2024-03-29T18:07:00.319Z"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T18:07:00.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T15:25:36.675Z"
+  },
+  "__v": 19
+},
+{
+  "_id": {
+    "$oid": "660703b91b0e57a10b432ffe"
+  },
+  "name": "Grisha",
+  "email": "grishadesai@gmail.com",
+  "password": "$2a$10$Qhf1.UCuNizAGfUtvSVzi.uGHh1C0HtnURhrRlLL.m1FGKNUInPeu",
+  "location": "Jetpur",
+  "cartitems": [],
+  "isAdmin": false,
+  "contactno": "8888888888",
+  "address": "Aksharam heights, near baps swaminarayan mandir, jetpur",
+  "pincode": "360370",
+  "city": "Jetpur",
+  "state": "Gujarat",
+  "isOrdered": true,
+  "date": {
+    "$date": "2024-03-29T18:08:57.267Z"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T18:08:57.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T02:34:36.438Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "6607049d2c38669e0e34a148"
+  },
+  "name": "Shubham",
+  "email": "shubham@gmail.com",
+  "password": "$2a$10$N.VdzEdohSvAwRt7MnEBseApX3.0FC4eOg8ZGdTiObmTxTpVoewBG",
+  "location": "korea",
+  "cartitems": [],
+  "isAdmin": false,
+  "contactno": "8888888888",
+  "address": "Aksharam heights near baps swaminarayan mandir,junagadh road ,jetpur",
+  "pincode": "360370",
+  "city": "Jetpur",
+  "state": "Gujarat",
+  "isOrdered": true,
+  "date": {
+    "$date": "2024-03-29T18:12:45.671Z"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T18:12:45.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-29T18:14:13.414Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "66434eacdb853e3f52db4430"
+  },
+  "name": "jensie",
+  "email": "jensie@gmail.com",
+  "password": "$2a$10$UVnQJ3d6eeGYEuMzDZn4/uc8gjn0eWysV8QJPUlyURZ1GFe4wIdji",
+  "location": "Rajkot",
+  "cartitems": [],
+  "isAdmin": false,
+  "contactno": "8888888888",
+  "address": "Aksharam heights, near baps swaminarayan mandir, jetpur",
+  "pincode": "360370",
+  "city": "Jetpur",
+  "state": "Gujarat",
+  "isOrdered": true,
+  "date": {
+    "$date": "2024-05-14T11:44:44.046Z"
+  },
+  "createdAt": {
+    "$date": "2024-05-14T11:44:44.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-14T11:46:39.464Z"
+  },
+  "__v": 3
+}]
